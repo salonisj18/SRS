@@ -3,14 +3,14 @@ Functionality Report
 
 # DashBoard
 The dashboard is an all in one suite consisting of widgets. It will have the following features:
-1. Link to profile, with details of Student name, Id and Photograph.  
+1. Link to profile, with details of Student name, Id, Photograph and batch.  
 2. Seach bar for the entire website.  
-3. A settings pane for account related information, password changes.  
+3. A settings pane for account related information, password changes, and changing the subscribed widgets.  
 4. Widgets that are customizable. Widgets can be resized, dragged and dropped in a given space.   
 
 # Widgets
 ## 1. Webmail:
-* Links updates of unread/read mails to the dashboard. If possible we can also have a feature to block the mails of unwanted groups/clubs or at least not have it appear on the dashboard.
+* Links updates of unread/read mails to the dashboard. If possible we can also have a feature to block the mails of unwanted groups/clubs or at least have it not appear on the dashboard.
 
 * Sorting: A means of sorting mail so that you only see the mails of specific clubs and committees chosen by you. This would involve customizing a widget to only filter mails of that community.
 
@@ -36,6 +36,7 @@ This would provide a list of on-going projects in DA both by students and profes
 
 ## 6. Class notes:
 * Links to class notes which can be downloaded as attachments.
+* Students can also upload and post pictures of their own notes to share with others.
 
 ## 7. DA-Directory:
 Contact list for important people in college. This would include the following:
@@ -59,7 +60,7 @@ Contact list for important people in college. This would include the following:
 
 
 ## 11. Car Pool
- You could find people who want to travel to a certain destination around the same time as you and book a cab and split the fare. It would be extremely convenient for localities.
+ You could find people who want to travel to a certain destination around the same time as you and book a cab and split the fare. It would be extremely convenient for localites.
 1. Post the timing and destination you want to go.
 2. Others can directly contact the person using contact details provided on the website.
 3. Post will be removed as soon as the traveling time extends
@@ -68,6 +69,7 @@ Contact list for important people in college. This would include the following:
 This would be a stackoverflow specific to DA where you could go and interact with people who have expertise over a particular domain if you get stuck. It would be a question/answer portal
 - All DA-IICT academic specific doubts can be posted here
 - It will be notified to the concerned user once the doubt is answered
+- The underlying assumption is that people would use this widget to both solve their own doubts and share the knowledge they possess.
 
 ## 13. Examination
 1. Old Papers : Old papers according to Semester and Subject will be posted here
@@ -86,5 +88,5 @@ The students have to register for the course. Students registered can vote the a
 ## 17. Ticker
  A continuous update at the bottom of the screen showing notifications. Updates will be linked to the actual post. eg new message received, spc updates , doubt answered ,
 
-## 18. My Music
- Users can post their music play-list in the widget. User can even browse others play-list.
+## 18. General Purpose Widgets
+ All the basic functionalities would be provided as well such as a calculator, weather, calender, etc.
