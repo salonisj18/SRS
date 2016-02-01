@@ -56,3 +56,35 @@ Contact list for important people in college. This would include the following:
 
 ## 10. SBG calender:
 * A calender app consisting of reminders and major events and announcements related to DA-IICT.
+
+
+## 11. Car Pool
+ You could find people who want to travel to a certain destination around the same time as you and book a cab and split the fare. It would be extremely convenient for localities.
+1. Post the timing and destination you want to go.
+2. Others can directly contact the person using contact details provided on the website.
+3. Post will be removed as soon as the traveling time extends
+
+## 12. QueueOverflosw
+This would be a stackoverflow specific to DA where you could go and interact with people who have expertise over a particular domain if you get stuck. It would be a question/answer portal
+- All DA-IICT academic specific doubts can be posted here
+- It will be notified to the concerned user once the doubt is answered
+
+## 13. Examination
+1. Old Papers : Old papers according to Semester and Subject will be posted here
+2. Link To Material : Link to materials will be posted here according to semester and subject
+3. Exam Schedule and timings : Exam timings and schedule will be posted here
+
+## 14. Chats and Channels
+This feature is inspired from slack but only limited to DA-IICT students. Students can form groups according to their project team. Channels can me made to keep track of different topics
+
+## 15. Time Table
+This widget is basically same as the timetable apps available on playstore. There will be slots in the widget for all days of the week. One can make his own time-table using it.
+
+## 16. Attendance probability widget
+The students have to register for the course. Students registered can vote the attendance poll for each subject. Result in percentage will be posted according to the current number of votes.
+
+## 17. Ticker
+ A continuous update at the bottom of the screen showing notifications. Updates will be linked to the actual post. eg new message received, spc updates , doubt answered ,
+
+## 18. My Music
+ Users can post their music play-list in the widget. User can even browse others play-list.
